@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://washingtonplumbingteam.com/sitemap.xml
